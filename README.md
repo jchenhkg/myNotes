@@ -1,4 +1,4 @@
 # JR Notes
 
 ## Computer Graphics
-- [Rendering Implicit Surfaces and Distance Fields: Sphere Tracing](CG/README.html)
+- [Rendering Implicit Surfaces and Distance Fields: Sphere Tracing](CG/READ ME.html)
